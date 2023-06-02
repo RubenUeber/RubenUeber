@@ -1,9 +1,13 @@
 Hi there 👋, I'm Ruben Uéber 🤓
 Be welcome to my GitHub page!
-I'm from Brazil, Camaçari-BA  
+I'm from Brazil, Camaçari-BA
 <u></u>
 
+Sou um entusiasta da tecnologia, falante de inglês, criativo, analítico e voltado para resultados. Estou em processo de transição e meu sonho é me tornar QA Analyst com uma carreira sólida. Tenho conhecimento e experiência em testes de software, identificação e manejo de ferramentas para trazer qualidade ao desenvolvimento de software, testes manuais, escritas de casos de testes, abertura e gestão de bugs, uso de BPMN, análise Troubleshooting, Diagrama de Pareto, Ishikawa, 5W2H, 5 Porquês, brainstorm, senso de urgência, trabalho em equipe, liderança e pensamento analítico.
 
+Nesta plataforma, você terá acesso a minha evolução e visualização de projetos feitos por mim.
+
+<u></u>
 
 <div>
 <a href="https://github.com/RubenUeber">
