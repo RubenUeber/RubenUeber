@@ -1,6 +1,8 @@
 Hi there 👋, I'm Ruben Uéber 🤓
 Be welcome to my GitHub page!
 I'm from Brazil, Camaçari-BA  
+<u></u>
+
 
 
 <div>
@@ -25,3 +27,33 @@ I'm from Brazil, Camaçari-BA
               
 
 ![Snake animation](https://github.com/RubenUeber/RubenUeber/blob/output/github-contribution-grid-snake.svg)
+ 
+ <h2>Formação Acadêmica:</h2>
+ <u></u>
+ 
+ 🗸💻Análise e Desenvolvimento de Sistemas - Wyden Educacional Unifavip
+ 🗸💻Sistemas de Informação - Estácio
+ 
+ 
+ <h2>Cursos/Certificações</h2>
+ <u></u>
+ 
+ <div>
+ 🗸Inglês Avançado - Concluído </>
+ 🗸Espanhol Intermediário - Concluído
+ 🗸SQL Server 2022 - Concluído
+ 🗸QA Plano de Teste e Gestão de Bugs - Concluído
+ 🗸Formação QA - Andamento
+ 🗸Quality Assurance Course - Concluído
+ 🗸Scrum - Andamento
+ 🗸Teste de Usabilidade - Concluído
+ 🗸Organização de Equipes Ágeis - Andamento
+ 🗸Python - Andamento
+ 🗸Cypress Automation E2E - Andamento
+ 🗸Robot Framework - Andamento
+ 🗸UiPath Citizen Developer Foundation - Concluído
+ 🗸UiPath Developer Foundation - Andamento
+ 🗸UiPath RPA Business Analyst - Andamento
+ 
+ </div>
+ 
