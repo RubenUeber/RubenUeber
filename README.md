@@ -22,6 +22,8 @@ Nesta plataforma, você terá acesso a minha evolução e visualização de proj
 <a href="https://www.linkedin.com/in/rubenueber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  
+ <h2>Linguagens</h2>
+ 
 <div style="display: inline_block"><br>
 <img align="center" alt="Ruben-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Ruben-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
@@ -31,9 +33,19 @@ Nesta plataforma, você terá acesso a minha evolução e visualização de proj
  
 <div>
  <h2>Automação</h2>
- <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
-              
+ 
+<img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg" height="40" width="52" alt="selenium logo" />
+<img src="https://www.svgrepo.com/show/374049/robotframework.svg" height="40" width="52" alt="robot logo"  />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" height="40" width="52" alt="postman logo"  />
+<img src="https://www.svgrepo.com/show/353413/appium.svg" height="40" width="52" alt="appium logo"  />
 
+<h3>Others:</h3>
+    <img src="https://home.apache.org/~fschumacher/jmeter3.svg" height="30" width="90" alt="jmeter logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  </div> 
+ 
 ![Snake animation](https://github.com/RubenUeber/RubenUeber/blob/output/github-contribution-grid-snake.svg)
  
  <h2>Formação Acadêmica:</h2>
