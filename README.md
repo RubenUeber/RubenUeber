@@ -28,6 +28,10 @@ Nesta plataforma, você terá acesso a minha evolução e visualização de proj
   <img align="center" alt="Ruben-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ruben-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </div>  
+ 
+<div>
+ <h2>Automação</h2>
+ <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
               
 
 ![Snake animation](https://github.com/RubenUeber/RubenUeber/blob/output/github-contribution-grid-snake.svg)
