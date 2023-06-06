@@ -1,5 +1,5 @@
 Hi there 👋, I'm Ruben Uéber 🤓
-Be welcome to my GitHub page!
+Welcome to my GitHub page!
 I'm from Brazil, Camaçari-BA
 <u></u>
 
