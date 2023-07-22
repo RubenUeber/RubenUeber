@@ -2,7 +2,7 @@ Olá! 👋, Me chamo Ruben Uéber 🤓
 Seja bem vindo à página do meu GitHub!
 <u></u>
 
-Vou me apresentar: sou um entusiasta da tecnologia, falante avançado de inglês, criativo, analítico e voltado para resultados. Estou em processo de transição de carreira e meu sonho é me tornar QA Analyst com uma carreira sólida. Tenho conhecimento e experiência em testes de software, identificação e manejo de ferramentas para trazer qualidade ao desenvolvimento de software, testes manuais, escritas de casos de testes, abertura e gestão de bugs, uso de BPMN, análise Troubleshooting, Diagrama de Pareto, Ishikawa, 5W2H, 5 Porquês, brainstorm, senso de urgência, trabalho em equipe, liderança e pensamento analítico.
+Vou me apresentar: sou um entusiasta da tecnologia, falante avançado de inglês, analítico e sou focado em resolver problemas. Estou em processo de transição de carreira e meu sonho é me tornar QA Analyst com uma carreira sólida. Tenho conhecimento e experiência em testes de software, identificação e manejo de ferramentas para trazer qualidade ao desenvolvimento de software, testes manuais, escritas de casos de testes, abertura e gestão de bugs, uso de BPMN, análise Troubleshooting, Diagrama de Pareto, Ishikawa, 5W2H, 5 Porquês, brainstorm, senso de urgência, trabalho em equipe, liderança e pensamento analítico.
 
 A plataforma ainda está em construção. Em breve postarei aqui meus projetos diariamente. Acompanhe!
 
