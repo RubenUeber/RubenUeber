@@ -34,7 +34,6 @@ I am a Software Tester enthusiastic, I am detail oriented and focused to ensure 
  
 <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg" height="40" width="52" alt="selenium logo" />
-<img src="https://www.svgrepo.com/show/374049/robotframework.svg" height="40" width="52" alt="robot logo"  />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" height="40" width="52" alt="postman logo"  />
 <img src="https://www.svgrepo.com/show/353413/appium.svg" height="40" width="52" alt="appium logo"  />
 
