@@ -1,8 +1,8 @@
-Olá! 👋, Me chamo Ruben Uéber 🤓
-Seja bem vindo à página do meu GitHub!
+Hi! 👋, I am Ruben Uéber 🤓
+Welcome to my Github page!
 <u></u>
 
-Sou um entusiasta da tecnologia, falante avançado de inglês, analítico e sou focado em resolver problemas. Meu sonho é me tornar um QA Analyst com uma carreira sólida. Tenho conhecimento e experiência em testes de software, identificação e manejo de ferramentas para trazer qualidade ao desenvolvimento de software, testes manuais, escritas de casos de testes, abertura e gestão de bugs, análise Troubleshooting, metodologia agile, testes funcionais, testes não funcionais, utilização de uma gama de ferramenta de análise, Diagrama de Pareto, Ishikawa, 5W2H, 5 Porquês, brainstorm, senso de urgência, trabalho em equipe, liderança e pensamento analítico.
+I am a Software Tester enthusiastic, I am detail oriented and focused to ensure the software quality and reliability because I know that the client is the one who will use this software for an important propose in thier lives. I've been worked on projects from South Korean company and brazilians companies that I was able to contribute in ensuring software reliability and its performance, including software test cases development and execution, test plans and bug tracking, and conducting quality tests, over than 3000 tests cases delivered, over than 719 bugs uncovered and reported.
 
 
 <u></u>
@@ -20,7 +20,7 @@ Sou um entusiasta da tecnologia, falante avançado de inglês, analítico e sou 
 <a href="https://www.linkedin.com/in/rubenueber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  
- <h2>Linguagens</h2>
+ <h2>Languages</h2>
  
 <div style="display: inline_block"><br>
 <img align="center" alt="Ruben-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -30,7 +30,7 @@ Sou um entusiasta da tecnologia, falante avançado de inglês, analítico e sou 
 </div>  
  
 <div>
- <h2>Automação</h2>
+ <h2>Automation</h2>
  
 <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="40" width="40" alt="cypress logo"  />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg" height="40" width="52" alt="selenium logo" />
@@ -46,32 +46,31 @@ Sou um entusiasta da tecnologia, falante avançado de inglês, analítico e sou 
  
 ![Snake animation](https://github.com/RubenUeber/RubenUeber/blob/output/github-contribution-grid-snake.svg)
  
- <h2>Formação Acadêmica:</h2>
+ <h2>Education:</h2>
  <u></u>
  
- 🗸💻Análise e Desenvolvimento de Sistemas - Wyden Educacional Unifavip
- 🗸💻Sistemas de Informação - Estácio
+ 🗸💻Analisys and Developement of Sytems - Wyden Educacional Unifavip
+ 🗸💻Sistem of Information - Estácio
  
  
- <h2>Cursos/Certificações</h2>
+ <h2>Courses/Certifications</h2>
  <u></u>
  
  <div>
- 🗸Inglês Avançado - Concluído </>
- 🗸Espanhol Intermediário - Concluído
- 🗸SQL Server 2022 - Concluído
- 🗸QA Plano de Teste e Gestão de Bugs - Concluído
- 🗸Formação QA - Andamento
- 🗸Quality Assurance Course - Concluído
- 🗸Scrum - Andamento
- 🗸Teste de Usabilidade - Concluído
- 🗸Organização de Equipes Ágeis - Andamento
- 🗸Python - Andamento
- 🗸Cypress Automation E2E - Andamento
- 🗸Robot Framework - Andamento
- 🗸UiPath Citizen Developer Foundation - Concluído
- 🗸UiPath Developer Foundation - Andamento
- 🗸UiPath RPA Business Analyst - Andamento
+ 🗸Advanced english - Done </>
+ 🗸Intermediate Spanish - Done
+ 🗸SQL Server 2022 - Done
+ 🗸QA Test Planning and Bug Managment - Done
+ 🗸QA - Done
+ 🗸Quality Assurance Course - Done
+ 🗸Scrum - Done
+ 🗸Usability Test - Done
+ 🗸Agile Methodology - Done
+ 🗸Python - Done
+ 🗸Cypress Automation E2E - Done
+ 🗸Robot Framework - Dobe
+ 🗸UiPath Citizen Developer Foundation - Done
+
  
  </div>
  
