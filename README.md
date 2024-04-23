@@ -2,7 +2,7 @@ Hi! 👋, I am Ruben Uéber 🤓
 Welcome to my Github page!
 <u></u>
 
-I am a Software Tester enthusiastic, I am detail oriented and focused to ensure the software quality and reliability because I know that the client is the one who will use this software for an important propose in thier lives. I've been worked on projects from South Korean company and brazilians companies that I was able to contribute in ensuring software reliability and its performance, including software test cases development and execution, test plans and bug tracking, and conducting quality tests, over than 3000 tests cases delivered, over than 719 bugs uncovered and reported.
+I am a Software Tester enthusiastic, I am detail oriented and focused to ensure the software quality and reliability because I know that the client is the one who will use this software for an important propose in their lives. I've been worked on projects from South Korean company and brazilians companies that I was able to contribute in ensuring software reliability and its performance, including software test cases development and execution, test plans and bug tracking, and conducting quality tests, over than 3000 tests cases delivered, over than 719 bugs uncovered and reported.
 
 
 <u></u>
