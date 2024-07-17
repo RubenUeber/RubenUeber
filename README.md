@@ -49,6 +49,7 @@ I am a Software Tester enthusiastic, I am detail oriented and focused to ensure 
  <u></u>
  
  🗸💻Analisys and Developement of Sytems - Wyden Educacional Unifavip
+ <br/>
  🗸💻Sistem of Information - Estácio
  
  
