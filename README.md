@@ -61,15 +61,26 @@ I am a Software Tester enthusiastic, I am detail oriented and focused to ensure 
  🗸Intermediate Spanish - Done
  <br/>
  🗸SQL Server 2022 - Done
+ <br/> 
  🗸QA Test Planning and Bug Managment - Done
+ <br/>
  🗸QA - Done
+ <br/>
  🗸Quality Assurance Course - Done
+ <br/>
  🗸Scrum - Done
+ <br/>
  🗸Usability Test - Done
+ <br/>
+ <br/>
  🗸Agile Methodology - Done
+ <br/>
  🗸Python - Done
+ <br/>
  🗸Cypress Automation E2E - Done
+ <br/>
  🗸Robot Framework - Dobe
+ <br/>
  🗸UiPath Citizen Developer Foundation - Done
 
  
