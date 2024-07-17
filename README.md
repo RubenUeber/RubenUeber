@@ -57,7 +57,9 @@ I am a Software Tester enthusiastic, I am detail oriented and focused to ensure 
  
  <div>
  🗸Advanced english - Done </>
+ <br/>
  🗸Intermediate Spanish - Done
+ <br/>
  🗸SQL Server 2022 - Done
  🗸QA Test Planning and Bug Managment - Done
  🗸QA - Done
